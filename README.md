@@ -4,7 +4,8 @@
 ###Instruction
 #####下方有中文说明
 --
-####This is a quick method to create category menu like [m.ele.me](http://m.ele.me) store detail page.
+####This is a quick method to create category menu like THIS.
++![](https://github.com/Kito0615/CategoryMenuViewController/raw/master/menu.gif) 
 ---
 ###Usage:
 ####1. You just need add `CategoryMenuViewController.h` and `CategoryMenuViewController.m` into your project.
@@ -18,6 +19,7 @@
 ####中文说明
 --
 ####这是一个复合的分类视图控制器，可以快速创建类似于商品分类的页面(通常用于外卖类、旅游类APP)。[如图]
++![](https://github.com/Kito0615/CategoryMenuViewController/raw/master/menu.gif) 
 ---
 ###用法
 ####1. 将`CategoryMenuViewController.h` 和 `CategoryMenuViewController.m`添加到你的工程中。
