@@ -14,6 +14,7 @@
 		8A4A8E961C895E68000F5DA2 /* CategoryMenuUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A4A8E951C895E68000F5DA2 /* CategoryMenuUITests.m */; };
 		8A4A8EA51C895E8F000F5DA2 /* CategoryMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A4A8EA41C895E8F000F5DA2 /* CategoryMenuViewController.m */; };
 		8A4A8EA71C895FD6000F5DA2 /* DataSource.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8A4A8EA61C895FD6000F5DA2 /* DataSource.plist */; };
+		8A4A8EAA1C897751000F5DA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A4A8EA81C897751000F5DA2 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8A4A8EA31C895E8F000F5DA2 /* CategoryMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CategoryMenuViewController.h; sourceTree = "<group>"; };
 		8A4A8EA41C895E8F000F5DA2 /* CategoryMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CategoryMenuViewController.m; sourceTree = "<group>"; };
 		8A4A8EA61C895FD6000F5DA2 /* DataSource.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DataSource.plist; sourceTree = "<group>"; };
+		8A4A8EA91C897751000F5DA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = CategoryMenu/Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		8A4A8E641C895E67000F5DA2 = {
 			isa = PBXGroup;
 			children = (
+				8A4A8EA81C897751000F5DA2 /* LaunchScreen.storyboard */,
 				8A4A8EA61C895FD6000F5DA2 /* DataSource.plist */,
 				8A4A8E6F1C895E67000F5DA2 /* CategoryMenu */,
 				8A4A8E891C895E67000F5DA2 /* CategoryMenuTests */,
@@ -240,6 +243,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A4A8EAA1C897751000F5DA2 /* LaunchScreen.storyboard in Resources */,
 				8A4A8E7D1C895E67000F5DA2 /* Assets.xcassets in Resources */,
 				8A4A8EA71C895FD6000F5DA2 /* DataSource.plist in Resources */,
 			);
@@ -302,6 +306,17 @@
 			targetProxy = 8A4A8E921C895E68000F5DA2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		8A4A8EA81C897751000F5DA2 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8A4A8EA91C897751000F5DA2 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		8A4A8E981C895E68000F5DA2 /* Debug */ = {
