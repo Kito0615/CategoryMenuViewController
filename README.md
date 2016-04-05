@@ -6,8 +6,7 @@
 --
 #####This is a quick method to create category menu like THIS.
 +![](https://github.com/Kito0615/CategoryMenuViewController/raw/master/menu.gif) 
----
-<<<<<<< HEAD
+--
 ###Usage:
 ####1. You just need add `CategoryMenuViewController.h` and `CategoryMenuViewController.m` into your project.
 ####2. Then `#import "CategoryMenuViewController.h`
