@@ -24,7 +24,6 @@
 ####!CAUTION: The structure of `categoryArray` is [Array {key : [Array]}], The `key` of inside array is category name, it will showed on the left categoryTableview.
 ####!CAUTION: The structure of `productsArray` is [Array]
 ####!CAUTION: The connection between `categoryArray` and `productsArray` is `productsArray` inclued in `categoryArray`.
->>>>>>> 445091442fd0de861de8d425a58053161fcb5067
 ---------------------------
 ####中文说明
 --
