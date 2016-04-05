@@ -11,9 +11,9 @@
 ####2. Then `#import "CategoryMenuViewController.h`
 ####3. Create CategoryMenuViewController instance `categoryMenu`.
 ####4.Set the `categoryMenu.categoryArray` data and `categoryMenu.productsArray` data.
-###!CAUTION: The structure of `categoryArray` is [Array {key : [Array]}], The `key` of inside array is category name, it will showed on the left categoryTableview.
-###!CAUTION: The structure of `productsArray` is [Array]
-###!CAUTION: The connection between `categoryArray` and `productsArray` is `productsArray` inclued in `categoryArray`.
+###!NOTE: The structure of `categoryArray` is [Array {key : [Array]}], The `key` of inside array is category name, it will showed on the left categoryTableview.
+###!NOTE: The structure of `productsArray` is [Array]
+###!NOTE: The connection between `categoryArray` and `productsArray` is `productsArray` inclued in `categoryArray`.
 ---------------------------
 ####中文说明
 --
